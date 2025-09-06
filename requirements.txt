@@ -1,0 +1,7 @@
+# Python runtime
+python>=3.8
+
+# Dependencies
+# Add your dependencies below, e.g.:
+# flask
+# requests
